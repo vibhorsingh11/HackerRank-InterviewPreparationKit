@@ -11,7 +11,7 @@ namespace InterviewPreparationKit
     {
         static void Main(string[] args)
         {
-            SockMerchant.Entry();
+            CountingValleys.Entry();
         }
     }
 }
