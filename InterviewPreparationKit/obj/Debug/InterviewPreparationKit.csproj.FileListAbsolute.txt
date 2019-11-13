@@ -1,7 +1,0 @@
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\obj\Debug\InterviewPreparationKit.csprojAssemblyReference.cache
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\obj\Debug\InterviewPreparationKit.csproj.CoreCompileInputs.cache
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\bin\Debug\InterviewPreparationKit.exe.config
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\bin\Debug\InterviewPreparationKit.exe
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\bin\Debug\InterviewPreparationKit.pdb
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\obj\Debug\InterviewPreparationKit.exe
-C:\Users\vsing128\Documents\Visual Studio 2017\Projects\HackerRank-InterviewPreparationKit\InterviewPreparationKit\obj\Debug\InterviewPreparationKit.pdb
